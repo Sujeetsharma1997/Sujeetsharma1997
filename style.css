@@ -906,3 +906,133 @@ footer span a:hover {
 }
 
 
+
+
+
+/* css part  */
+
+
+
+.pieContainer {
+  /* margin-top: 100px;
+  margin: auto; */
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-top: 10px;
+  }
+
+  .pieBackground{
+  background-color: #333;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  
+  -webkit-box-shadow:  0px 0px 5px 1px rgba(0, 0, 0, .75);      
+  box-shadow:  0px 0px 5px 1px rgba(0, 0, 0, .75);
+  }
+
+  .stat-circle-cover {
+  position: absolute;
+  top: 10%;
+  right: 10%;
+  
+  background-color: #333;
+  height: 80%;
+  width: 80%;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  
+  -moz-box-shadow:inset 0px 0px 5px #666;
+  -webkit-box-shadow:inset 0px 0px 5px #666;
+  box-shadow:inset 0px 0px 1px #666;
+  }
+
+  .stat-circle-cover span.stat-number {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  line-height: 80px;
+  color: #f78e1e;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-family: Helvetica-Neue, Helvetica, arial, verdana, sans-serif;
+  font-weight: bold;
+  }
+
+  .danny {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  clip: rect(0px, 50px, 100px, 0px);
+  }
+
+  .hold {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  clip: rect(0px, 100px, 100px, 50px);
+  }
+
+
+  #pieSlice99_1 .danny {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  }
+
+  #pieSlice99_2 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -o-transform:rotate(180deg);
+  transform:rotate(180deg);
+  }
+
+  #pieSlice99_2 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -o-transform:rotate(180deg);
+  transform:rotate(180deg);
+  }
+
+  #pieSlice99_2 .danny {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  
+  }
+
+  .Col1{
+      background-color: green;
+  }
+  .Col2{
+      background-color: red;
+  }
+  .Col3{
+      background-color: #f78e1e;
+  }
+  .Col4{
+      background-color: aqua;
+  }
+  .Col5{
+      background-color: purple;
+  }
+
+  .box7{
+      display: grid;
+      grid-template-columns: repeat(auto-fill,minmax(120px,1fr));
+  }
