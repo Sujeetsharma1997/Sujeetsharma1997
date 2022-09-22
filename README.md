@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sujeetkumar081997@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing](https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujeetsharma1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetsharma1997&show_icons=true&locale=en" alt="sujeetsharma1997" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetsharma1997&" alt="sujeetsharma1997" /></p>
-
