@@ -5,24 +5,25 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sujeet+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sujeet+Sharma!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h1 align="center"> 😇(Hello everyone) 👋</h1>
+<h1 align="center"> 😇Hi, I am Sujeet Sharma👋</h1>
 
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center"> A passionate JAVA Backend Developer from India. Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h2>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+<img align="right" alt="Coding" width="250" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+
+<img align="left" alt="vector" width="300" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1670612004~exp=1670612604~hmac=d920cca2fdce2ab0a0db2cdb86fd31bbd8caef4505f8316afc73970a1ef1a5c0">
                                                        
 - 🔭 I’m currently working on *MySkill😄*
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
-- 👨‍💻 This is [My Portfolio](https://sujeetsharma1997.github.io/Sujeetsharma1997/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing)
+- 👨‍💻 Checkout my [My Portfolio](https://sujeetsharma1997.github.io/Sujeetsharma1997/)
+-  📄 Get [My Resume](https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing)
 - 📫 How to reach me: ...*sujeetkumar081997@gmail.com*
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
@@ -112,6 +113,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
