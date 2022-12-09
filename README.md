@@ -40,7 +40,7 @@
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
 
 
 
@@ -59,11 +59,11 @@
 
 
 
-<div align="center">  
+<div align="left">  
                                                          
 <h3 align="left">Connect with me</h3>
 
-<p align="center">
+<p align="left">
 
 
 <a href="https://www.linkedin.com/in/sujeetsharma1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
@@ -84,7 +84,7 @@
 
 
 
-<div align="center">
+<div align="left">
   
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" />
