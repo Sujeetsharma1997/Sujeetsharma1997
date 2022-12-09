@@ -26,14 +26,8 @@
 - 📫 How to reach me: ...*sujeetkumar081997@gmail.com*
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-
-
-
                                                          
 <h2 align="left">Connect with me</h2>
-
-
 
 <a href="https://www.linkedin.com/in/sujeetsharma1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
 
@@ -63,7 +57,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
- 
+
   
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
