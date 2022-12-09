@@ -72,10 +72,11 @@
   <h2><i>My GitHub Stats</i></h2>
 <p>
     
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujeetsharma1997&show_icons=true&locale=en&theme=dark" alt="sujeetsharma1997"  height="139" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujeetsharma1997&show_icons=true&locale=en" alt="sujeetsharma1997"  height="139" />
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0" alt="sujeetsharma1997" height="139" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujeetsharma1997&theme=github-compact" height ="307"/>
 
 </p>
 
