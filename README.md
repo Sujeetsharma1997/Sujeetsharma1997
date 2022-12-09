@@ -31,7 +31,7 @@
 
 
                                                          
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 
 
@@ -45,7 +45,7 @@
 
                                                           
 
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+<h2 align="left">🛠 &nbsp;Tech Stack </h2>
 
 
 
@@ -63,9 +63,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+ 
   
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!--    -->
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetsharma1997" alt="sujeetsharma1997" /></a> </p>
 
 <!--    --> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
