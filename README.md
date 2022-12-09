@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sujeet+Sharma!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=Hey!+It's+Sujeet+Sharma!;Full+Stack+Web+Developer...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -18,44 +18,13 @@
 
 <img align="left" alt="vector" width="300" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1670612004~exp=1670612604~hmac=d920cca2fdce2ab0a0db2cdb86fd31bbd8caef4505f8316afc73970a1ef1a5c0">
                                                        
-- 🔭 I’m currently working on *MySkill😄*
-- 🌱 I’m currently learning at *Masai School*
-- 💬 Ask me about *Java*
+- 🔭 I’m currently working on *Full Stack Web Developement*
+- 🌱 I’m currently learning *Data Structures*
+- 💬 Ask me about *Java|DSA|Spring|SQL|Github*
 - 👨‍💻 Checkout my [My Portfolio](https://sujeetsharma1997.github.io/Sujeetsharma1997/)
 -  📄 Get [My Resume](https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing)
 - 📫 How to reach me: ...*sujeetkumar081997@gmail.com*
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-                                                       
-<h2><i>My GitHub Stats</i></h2>
-
-
-
-<p>
-    
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujeetsharma1997&show_icons=true&locale=en&theme=dark" alt="sujeetsharma1997"  height="139" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
-
-</p>
-
-
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-
-
-
 
 
 
@@ -104,12 +73,19 @@
 <!--    -->
 
 <!--    --> 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <h2><i>My GitHub Stats</i></h2>
+<p>
+    
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujeetsharma1997&show_icons=true&locale=en&theme=dark" alt="sujeetsharma1997"  height="139" />
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
+
+</p>
 
 
 </div>  
-
-
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
