@@ -23,6 +23,7 @@
 - 💬 Ask me about *Java|DSA|Spring|SQL|Github*
 - 👨‍💻 Checkout my [My Portfolio](https://sujeetsharma1997.github.io/Sujeetsharma1997/)
 -  📄 Get [My Resume](https://drive.google.com/file/d/1GZFkeWTZc1izVT10UlkuBJxQf2QCUz4D/view?usp=sharing)
+-   📄 Get [My Resume](https://drive.google.com/file/d/1GZFkeWTZc1izVT10UlkuBJxQf2QCUz4D/view?usp=sharing).
 - 📫 How to reach me: ...*sujeetkumar081997@gmail.com*
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
